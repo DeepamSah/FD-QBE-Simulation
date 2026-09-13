@@ -1,0 +1,11 @@
+metric,value,reference
+entropy_bits,7.982324796475254,8.0
+entropy_ratio,0.9977905995594067,1.0
+I_V_C_bits,0.01628864799787788,0.0
+mean_feasible_plaintexts,2.0,2.0
+posterior_prob_true_vote,0.5,0.5
+adversary_success_rate,0.5,0.5
+I_V_C_after_0.0027_years,0.01628864799787788,0.0
+I_V_C_after_1.0000_years,0.01628864799787788,0.0
+I_V_C_after_10.0000_years,0.01628864799787788,0.0
+I_V_C_after_50.0000_years,0.01628864799787788,0.0

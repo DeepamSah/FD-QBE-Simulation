@@ -1,0 +1,4 @@
+threshold_k,n_trustees,mean_gen_time_s,mean_reconstruction_time_s,authorized_subset_correct,unauthorized_subset_uninformative
+2,3,2.8007149997932858e-06,6.428064999965955e-06,True,True
+3,5,5.4035000002983225e-06,1.4253015000420533e-05,True,True
+5,7,1.0507030000113104e-05,3.944540000006214e-05,True,True
