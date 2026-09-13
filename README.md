@@ -27,6 +27,27 @@ Repository for the simulation and experimental validation of the Forward-Deniabl
 - Delay-independent ballot secrecy.
 - Efficient ballot encryption and tallying.
 
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run
+
+```bash
+python fdqbe_simulation.py
+```
+
+## Citation
+
+If you use this repository in academic work, please cite:
+
+Sah, D., Dev, B., and Kshetri, K.
+FD-QBE Simulation Repository.
+GitHub Repository.
+2026.
+
 ## Author
 
 Deepam Sah,
