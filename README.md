@@ -29,10 +29,10 @@ Repository for the simulation and experimental validation of the Forward-Deniabl
 
 ## Author
 
-Deepam Sah
-Bibhan Dev
+Deepam Sah,
+Bibhan Dev,
 Kshitiz Kshetri*
 
 ## Contact
-Email: kkshetri16@gmail.com *
+Email: kkshetri16@gmail.com*, 
       sahdeepam12@gmail.com
